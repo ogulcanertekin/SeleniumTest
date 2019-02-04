@@ -61,13 +61,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FavoriteHelper.cs" />
-    <Compile Include="FavoritesPageObject.cs" />
-    <Compile Include="HomePageObject.cs" />
-    <Compile Include="LoginPageObject.cs" />
-    <Compile Include="SearchPageObject.cs" />
-    <Compile Include="SearchResultsPageObject.cs" />
-    <Compile Include="SearchResultsSecondPageObject.cs" />
+    <Compile Include="HelperClasses\FavoriteHelper.cs" />
+    <Compile Include="PageObjects\FavoritesPageObject.cs" />
+    <Compile Include="PageObjects\HomePageObject.cs" />
+    <Compile Include="PageObjects\LoginPageObject.cs" />
+    <Compile Include="PageObjects\SearchPageObject.cs" />
+    <Compile Include="PageObjects\SearchResultsPageObject.cs" />
+    <Compile Include="PageObjects\SearchResultsSecondPageObject.cs" />
     <Compile Include="TestProperties.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
